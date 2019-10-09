@@ -17,4 +17,10 @@
         android:text="@string/parar"
         android:enabled="false" />
 
+    <Button
+        android:id="@+id/btnExportar"
+        android:layout_width="185dp"
+        android:layout_height="wrap_content"
+        android:text="Exportar os dados" />
+
 </LinearLayout>
