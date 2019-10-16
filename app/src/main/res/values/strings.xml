@@ -5,4 +5,5 @@
 
     <string name="sucesso_exportacao_mensagem">Dados exportados com sucesso</string>
     <string name="erro_exportacao_mensagem">Dados NÃO puderam ser exportados! Por favor, tente novamente mais tarde</string>
+    <string name="exportar_os_dados">Exportar os dados</string>
 </resources>
